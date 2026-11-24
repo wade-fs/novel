@@ -1,7 +1,7 @@
 # 《萬界風月樓》第一卷、第二卷人物設定檔案總覽
 
 > **文檔定位**：全書卷一（青玄界篇）與卷二（滄瀾界篇）之男女主角人物檔案總綱與速查手冊。  
-> **核心設計原則**：遵循 [writing_guide.md](file:///home/wade/src/github/novel/sex/docs/arcs/writing_guide.md)（依女主個性選詞、拒絕模板化雙修、情感自願與尊嚴）與 [world_bible.md](file:///home/wade/src/github/novel/sex/docs/world_bible.md)（R24 諸天自主演化原則、R19 一界多女主群像原則）。
+> **核心設計原則**：遵循 [writing_guide.md](../arcs/writing_guide.md)（依女主個性選詞、拒絕模板化雙修、情感自願與尊嚴）與 [world_bible.md](../world_bible.md)（R24 諸天自主演化原則、R19 一界多女主群像原則）。
 
 ---
 
@@ -9,12 +9,12 @@
 
 | 角色姓名 | 所屬世界 | 人物身份／代表稱號 | 人物檔案連結 | 核心人物模型 |
 | :--- | :---: | :--- | :--- | :--- |
-| **顧淵** | 萬界樓 | 萬界風月樓之主・諸天執棋人 | [guyuan.md](file:///home/wade/src/github/novel/sex/docs/characters/guyuan.md) | 從容帝師型・溫柔克制・殺伐果決 |
-| **柳清虛** | 01 青玄界 | 青雲觀新任掌門・道門女魁首 | [liu_qingxu.md](file:///home/wade/src/github/novel/sex/docs/characters/liu_qingxu.md) | 清冷仙子型 ＋ 外柔內韌型 |
-| **沈玄清** | 01 青玄界 | 青雲太上仙尊・寒玉仙子 | [shen_xuanqing.md](file:///home/wade/src/github/novel/sex/docs/characters/shen_xuanqing.md) | 成熟御姐型 ＋ 清冷仙尊型（師徒禁忌） |
-| **慕容玥** | 01 青玄界 | 東華萬界商盟盟主・商道奇才 | [murong_yue.md](file:///home/wade/src/github/novel/sex/docs/characters/murong_yue.md) | 精明商女型 ＋ 風情萬種型 |
-| **洛寒衣** | 02 滄瀾界 | 天劍山首席真傳・女武王劍仙 | [luo_hanyi.md](file:///home/wade/src/github/novel/sex/docs/characters/luo_hanyi.md) | 清冷女劍仙 ＋ 傲嬌反差萌型 |
-| **姬明月** | 02 滄瀾界 | 大乾皇朝長公主・監國帝女 | [ji_mingyue.md](file:///home/wade/src/github/novel/sex/docs/characters/ji_mingyue.md) | 高冷女帝型 ＋ 智性掌控型 |
+| **顧淵** | 萬界樓 | 萬界風月樓之主・諸天執棋人 | [guyuan.md](guyuan.md) | 從容帝師型・溫柔克制・殺伐果決 |
+| **柳清虛** | 01 青玄界 | 青雲觀新任掌門・道門女魁首 | [liu_qingxu.md](liu_qingxu.md) | 清冷仙子型 ＋ 外柔內韌型 |
+| **沈玄清** | 01 青玄界 | 青雲太上仙尊・寒玉仙子 | [shen_xuanqing.md](shen_xuanqing.md) | 成熟御姐型 ＋ 清冷仙尊型（師徒禁忌） |
+| **慕容玥** | 01 青玄界 | 東華萬界商盟盟主・商道奇才 | [murong_yue.md](murong_yue.md) | 精明商女型 ＋ 風情萬種型 |
+| **洛寒衣** | 02 滄瀾界 | 天劍山首席真傳・女武王劍仙 | [luo_hanyi.md](luo_hanyi.md) | 清冷女劍仙 ＋ 傲嬌反差萌型 |
+| **姬明月** | 02 滄瀾界 | 大乾皇朝長公主・監國帝女 | [ji_mingyue.md](ji_mingyue.md) | 高冷女帝型 ＋ 智性掌控型 |
 
 ---
 
@@ -50,7 +50,7 @@ flowchart TD
 
 ## 三、親密場景與雙修風格對照矩陣（貫徹 writing_guide.md）
 
-根據 [writing_guide.md](file:///home/wade/src/github/novel/sex/docs/arcs/writing_guide.md) 規則，每位女主在親密與雙修場景中，嚴格採用專屬的語言模式、神態選詞與修煉反饋：
+根據 [writing_guide.md](../arcs/writing_guide.md) 規則，每位女主在親密與雙修場景中，嚴格採用專屬的語言模式、神態選詞與修煉反饋：
 
 | 女主姓名 | 主導敘事模式 | 核心關鍵神態與動作選詞 | 雙修異象與修煉成果 |
 | :--- | :--- | :--- | :--- |

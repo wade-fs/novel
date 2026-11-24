@@ -7,8 +7,8 @@
 > **敘事模式**：**雙世界平行推進主線**（滄瀾探索主線 ＋ 青玄自主發展主線 ＋ 萬界樓樞紐重聚）  
 > **核心女主**：**洛寒衣**（天劍山首徒・清冷女劍仙）、**姬明月**（大乾監國帝女・高冷華貴女帝）雙女主雙修納入後宮！  
 > **卷末修復指標**：萬界樓修復度自 0.08% 巨幅提升突破至 **100/10000（1.00%）**！  
-> **參考母本**：[02-thinking.md](file:///home/wade/src/github/novel/sex/02-thinking.md) 核心思想與架構  
-> **寫作規範**：遵循 [writing_guide.md](file:///home/wade/src/github/novel/sex/docs/arcs/writing_guide.md)（v1.2）與 [world_bible.md](file:///home/wade/src/github/novel/sex/docs/world_bible.md)（R22 爽感模型、R24 諸天自主演化原則、7.4 雙界聯繫規則）
+> **參考母本**：[02-thinking.md](../../../02-thinking.md) 核心思想與架構  
+> **寫作規範**：遵循 [writing_guide.md](../writing_guide.md)（v1.2）與 [world_bible.md](../../world_bible.md)（R22 爽感模型、R24 諸天自主演化原則、7.4 雙界聯繫規則）
 
 ---
 
@@ -26,24 +26,24 @@
 
 ## 二、第二卷文檔體系目錄導航
 
-* 📘 [01_world_setting.md](file:///home/wade/src/github/novel/sex/docs/arcs/02/01_world_setting.md)：**世界設定與天下格局**
+* 📘 [01_world_setting.md](01_world_setting.md)：**世界設定與天下格局**
   * 滄瀾界本源歷史（三千年前魔劫、千年神兵失蹤、百年無武神）
   * 五大頂尖勢力（大乾皇朝、天劍山、武極殿、百兵神宮、九幽禁域）
   * 跨界通行特權（男主自由出入 vs 女主受限）與時空錨點層次區分
-* ⚔️ [02_power_system.md](file:///home/wade/src/github/novel/sex/docs/arcs/02/02_power_system.md)：**力量體系與仙武融合機制**
+* ⚔️ [02_power_system.md](02_power_system.md)：**力量體系與仙武融合機制**
   * 武道、異能、神兵三大體系與八大境界
   * 顧淵力量漸進成長歷程（排斥期→試錯調和期→神兵同調期→仙武合一）
   * 九幽魔劫五大層次（魔獸宗師、魔網第二節點、黑天魔皇投影、第二碎片、諸天幕後黑手）
   * **萬界樓數值大躍進**：五大關鍵節點累積達到 **100/10000（1.00%）** 階梯表，【萬法演武殿】解鎖
-* 👥 [03_characters.md](file:///home/wade/src/github/novel/sex/docs/arcs/02/03_characters.md)：**人物設定與雙女主後宮矩陣**
+* 👥 [03_characters.md](03_characters.md)：**人物設定與雙女主後宮矩陣**
   * 核心女主一：**洛寒衣**（天劍山首徒・先天劍骨・斷星古劍，道心破境成武王）
   * 核心女主二：**姬明月**（大乾長公主・監國帝女・紫霄真龍，皇宮深處春風化煞、合一雙修入後宮）
   * 青玄三女（柳清虛、沈玄清、慕容玥）自主成長與萬界樓跨界重聚溫存
   * 滄瀾各方傳奇群像（劍無塵、楚烈天、段百狂、燕驚鴻）
-* 🔍 [04_foreshadowing.md](file:///home/wade/src/github/novel/sex/docs/arcs/02/04_foreshadowing.md)：**伏筆追蹤與雙世界平行時間表**
+* 🔍 [MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)：**全書跨卷伏筆追蹤總庫（第二卷 FB2 系列已整併入庫）**
   * 雙世界平行推進時間表（Timeline Matrix，四大發展階段＋樓中重聚節點）
-  * 卷一伏筆聯動（FB-01～FB-10）與卷二新增伏筆（FB2-01～FB2-08）
-* 📜 [05_chapter_outlines.md](file:///home/wade/src/github/novel/sex/docs/arcs/02/05_chapter_outlines.md)：**36章全篇詳細分章細綱**
+  * 卷一伏筆聯動（FB-01～FB-10）與卷二新增伏筆（FB2-01～FB2-09）全面整併至頂層總庫
+* 📜 [05_chapter_outlines.md](05_chapter_outlines.md)：**36章全篇詳細分章細綱**
   * 涵蓋六大篇章逐章細綱（含樓中重聚、姬明月雙修、青玄四階段平行推進與九幽魔變終局）
 
 ---
