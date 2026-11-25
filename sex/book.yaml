@@ -15,8 +15,8 @@ project:
     - 紅顏養成
 
 scale:
-  total_volumes: 3
-  total_chapters: 88
+  total_volumes: 4
+  total_chapters: 124
   volumes:
     - volume: 1
       name: 第一卷 仙門歸來・青玄風雲
@@ -27,6 +27,9 @@ scale:
     - volume: 3
       name: 第三卷 諸天回首・青玄歸途
       chapters: "053-088 (共 36 章)"
+    - volume: 4
+      name: 第四卷 九曜神域・神座之爭
+      chapters: "089-124 (共 36 章)"
 
 structure:
   outline: docs/world_bible.md
