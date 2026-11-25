@@ -2,7 +2,7 @@
 
 > **文檔定位**：第三卷全 36 章（全書 ch053 ～ ch088；卷內第 001 ～ 036 章）逐章編劇細綱。  
 > **結構劃分**：六大主要篇章 ＋ 五場極致雙修（唯一修復能量來源，100 ➔ 280） ＋ 五女獨立人格與價值碰撞（姬明月與慕容玥跨界商政交鋒共治、清虛與玥兒商門激辯、玄清尊嚴平視、寒衣獨立劍道悟道、和而不同的五女齊聚） ＋ 陸遠林芷萱扎實成長定情 ＋ 萬界商票兩級閉環 ＋ 九曜神域終局懸念反轉。  
-> **核心原則**：遵循 [writing_guide.md](../writing_guide.md)、[world_bible.md](../../world_bible.md)、[02_power_system.md](./02_power_system.md)、[03_romance_and_characters.md](./03_romance_and_characters.md) 與 [MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)。  
+> **核心原則**：遵循 [writing_guide.md](../writing_guide.md)、[README.md](../../../README.md)、[02_power_system.md](./02_power_system.md)、[03_romance_and_characters.md](./03_romance_and_characters.md) 與 [MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)。  
 > **正文篇幅與書寫分寸**：① 採沉浸式長文規格——常規章節 5,000～7,500 字，重要情節／大戰／核心雙修／多女主群像與收官章節 **8,000～12,000+ 字（鼓勵破萬字讓劇情從容推進）**；② **正文雙修過程本身完全不提能量與數值**，所有修復數字只出現在章末由靈素播報，讓古樓反應成為感情昇華後的餘韻而非目的；③ 洛寒衣的獨立嚴守「**選擇性同行**」而非「拒絕依賴」。  
 > **參考母本**：核心架構審查與十四項架構補強指引、第三卷人物與主線深度修訂（6.1～6.6、8.1～8.4、11.3）。
 

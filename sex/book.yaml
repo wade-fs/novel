@@ -32,7 +32,7 @@ scale:
       chapters: "089-124 (共 36 章)"
 
 structure:
-  outline: docs/world_bible.md
+  outline: README.md
   chapters: chapters/
   characters: docs/characters/
   worlds: docs/worlds/

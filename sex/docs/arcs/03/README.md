@@ -9,7 +9,7 @@
 > **並行女主**：**洛寒衣**（首次跨界青玄・獨立劍道與道侶同行悟道・主動以劍立誓）、**姬明月**（跨界商政交鋒共治・與慕容玥建立合作夥伴關係 ➔ 2.50% 門檻達成後真身親臨）  
 > **卷末修復指標**：萬界樓總修復度自 **100/10000（1.00%）** 透過五場極致雙修穩步躍升至 **280/10000（2.80%）**，解鎖第四核心設施【萬界通商行】與【時空定標儀（三界同步版）】  
 > **參考母本**：核心架構審查與十四項架構補強指引、第三卷人物與主線深度修訂（6.1～6.6、8.1～8.4、11.3）  
-> **參考規範**：[world_bible.md](../../world_bible.md)｜[writing_guide.md](../writing_guide.md)｜[MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)
+> **參考規範**：[README.md](../../../README.md)｜[writing_guide.md](../writing_guide.md)｜[MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)
 
 ---
 

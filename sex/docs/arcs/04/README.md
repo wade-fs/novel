@@ -10,7 +10,7 @@
 > **並行女主**：**姬明月**（真龍神座主線高潮）、**柳清虛**（元嬰突破・跨界重逢）、**沈玄清**（古仙法則研究・後方坐鎮）、**慕容玥**（天行者情報・落霞清算）、**洛寒衣**（神域強者交鋒・劍道碰撞）  
 > **卷初修復度**：280/10000（2.80%）  
 > **卷末目標**：500/10000（5.00%）  
-> **參考規範**：[world_bible.md](../../world_bible.md)｜[writing_guide.md](../writing_guide.md)｜[MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)
+> **參考規範**：[README.md](../../../README.md)｜[writing_guide.md](../writing_guide.md)｜[MASTER_FORESHADOWING.md](../MASTER_FORESHADOWING.md)
 
 ---
 
