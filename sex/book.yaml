@@ -1,0 +1,52 @@
+project:
+  id: sex
+  name: 萬界風月樓
+  subtitle: 諸天萬界爽文與風月傳奇
+  type: xianxia_worldbuilding
+  domain_agent: writing
+  language: zh-TW
+  status: in_progress
+  tags:
+    - 諸天萬界
+    - 萬界樓
+    - 仙俠修真
+    - 雙修功法
+    - 爽文
+    - 紅顏養成
+
+scale:
+  total_volumes: 3
+  total_chapters: 88
+  volumes:
+    - volume: 1
+      name: 第一卷 仙門歸來・青玄風雲
+      chapters: "001-016 (共 16 章)"
+    - volume: 2
+      name: 第二卷 諸天第一步・滄瀾風雲
+      chapters: "017-052 (共 36 章)"
+    - volume: 3
+      name: 第三卷 諸天回首・青玄歸途
+      chapters: "053-088 (共 36 章)"
+
+structure:
+  outline: docs/world_bible.md
+  chapters: chapters/
+  characters: docs/characters/
+  worlds: docs/worlds/
+  arcs: docs/arcs/
+
+writing_policy:
+  historical_accuracy: relaxed
+  battle_tactics_focus: true
+  classifications:
+    - fictional_content
+  require_consistency_check: true
+
+storage:
+  type: filesystem
+  root: /home/wade/src/github/novel/sex
+
+version_control:
+  type: git
+  enabled: true
+  default_branch: main
