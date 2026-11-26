@@ -23,13 +23,13 @@ scale:
       chapters: "001-016 (共 16 章)"
     - volume: 2
       name: 第二卷 諸天第一步・滄瀾風雲
-      chapters: "017-052 (共 36 章)"
+      chapters: "001-036 (共 36 章，各卷獨立計數)"
     - volume: 3
       name: 第三卷 諸天回首・青玄歸途
-      chapters: "053-088 (共 36 章)"
+      chapters: "001-036 (共 36 章，各卷獨立計數)"
     - volume: 4
       name: 第四卷 九曜神域・神座之爭
-      chapters: "089-124 (共 36 章)"
+      chapters: "001-036 (共 36 章，各卷獨立計數)"
 
 structure:
   outline: README.md
