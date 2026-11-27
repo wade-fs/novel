@@ -13,7 +13,7 @@ FORCE=0
 usage() {
     cat <<USAGE
 Usage: $(basename "$0") [-d <book_dir>]... [-t <dist_dir>] [-f] [-h]
-  -d <book_dir>  只打包指定的小說目錄，可重複使用 (例: -d sex -d song)
+  -d <book_dir>  只打包指定的小說目錄，可重複使用 (例: -d one-space -d song)
                  相對路徑先以目前目錄解析，找不到再以 $NOVEL_ROOT 解析
                  未指定時，打包 $NOVEL_ROOT 底下所有含 chapters/ 的目錄
   -t <dist_dir>  指定輸出目錄

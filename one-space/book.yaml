@@ -1,5 +1,5 @@
 project:
-  id: sex
+  id: one-space
   name: 萬界風月樓
   subtitle: 諸天萬界爽文與風月傳奇
   type: xianxia_worldbuilding
@@ -47,7 +47,7 @@ writing_policy:
 
 storage:
   type: filesystem
-  root: /home/wade/src/github/novel/sex
+  root: /home/wade/src/github/novel/one-space
 
 version_control:
   type: git
