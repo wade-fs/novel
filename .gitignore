@@ -10,3 +10,5 @@ redemption
 __pycache__/
 boundless
 the-boundary-trace/
+dist/
+
